@@ -4,15 +4,17 @@
 
 Добавляем API ID и API HASH (где и как регистрироваться знают все):
 
-nano config.py
+— nano config.py
 
 api_id = ваш api_id
 
 api_hash 'ваш api_hash'
 
+
 Качаем требования что бы бот смог запустится:
 
-pip3 install -r requirements.txt
+— pip3 install -r requirements.txt
+
 
 Как добавить текст:
 
@@ -21,7 +23,7 @@ pip3 install -r requirements.txt
 
 Добавляем аккаунт:
 
-python3 addacc.py
+— python3 addacc.py
 
 Вводим номер телефона
 

@@ -7,10 +7,15 @@
 nano config.py
 
 api_id = ваш api_id
+
 api_hash 'ваш api_hash'
 
+Качаем требования что бы бот смог запустится:
+
+pip3 install -r requirements.txt
 
 Как добавить текст:
+
 Текст уже в фаиле "words.txt"
 
 
@@ -19,7 +24,9 @@ api_hash 'ваш api_hash'
 python3 addacc.py
 
 Вводим номер телефона
+
 Вводим код
+
 
 Запускаем:
 
